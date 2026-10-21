@@ -1,0 +1,26 @@
+\contentsline {chapter}{Abstract}{i}{}%
+\contentsline {chapter}{List of Figures}{ii}{}%
+\contentsline {chapter}{List of Tables}{ii}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {1.1}Overview}{1}{}%
+\contentsline {section}{\numberline {1.2}Motivation}{1}{}%
+\contentsline {section}{\numberline {1.3}Objectives}{2}{}%
+\contentsline {section}{\numberline {1.4}Organization of the report}{2}{}%
+\contentsline {chapter}{\numberline {2}Literature Survey}{3}{}%
+\contentsline {section}{\numberline {2.1}Survey of Existing System}{3}{}%
+\contentsline {section}{\numberline {2.2}Limitations of Existing System or Research Gap}{3}{}%
+\contentsline {chapter}{\numberline {3}Proposed System}{4}{}%
+\contentsline {section}{\numberline {3.1}Problem Statement}{4}{}%
+\contentsline {section}{\numberline {3.2}System Architecture}{4}{}%
+\contentsline {section}{\numberline {3.3}Proposed Methodology/Techniques}{5}{}%
+\contentsline {section}{\numberline {3.4}Details of Hardware/Software Requirement}{5}{}%
+\contentsline {chapter}{\numberline {4}Planning and System Design}{6}{}%
+\contentsline {section}{\numberline {4.1}Schedule for Project}{6}{}%
+\contentsline {section}{\numberline {4.2}System Design}{6}{}%
+\contentsline {chapter}{\numberline {5}Implementation Plan}{7}{}%
+\contentsline {section}{\numberline {5.1} Implementation Plan For Current Semester}{7}{}%
+\contentsline {section}{\numberline {5.2}Implementation Plan For Next Semester}{7}{}%
+\contentsline {chapter}{\numberline {6}Conclusion and Future Work}{8}{}%
+\contentsline {chapter}{References}{9}{}%
+\contentsline {chapter}{\numberline {A}Plagiarism Report}{10}{}%
+\contentsline {chapter}{Acknowledgement}{11}{}%

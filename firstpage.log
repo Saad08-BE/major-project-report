@@ -1,0 +1,891 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.18)  17 OCT 2026 11:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./firstpage.tex
+(firstpage.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--1
+[] 
+ []
+
+! Undefined control sequence.
+<recently read> \Large 
+                       
+l.2 \textbf{\Large A Project Report }
+                                     \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (8.6944pt too wide) in paragraph at lines 2--2
+ \OT1/cmr/bx/n/10 A 
+ []
+
+
+Overfull \hbox (37.35399pt too wide) in paragraph at lines 2--2
+ \OT1/cmr/bx/n/10 Project 
+ []
+
+
+Overfull \hbox (17.72908pt too wide) in paragraph at lines 2--2
+ \OT1/cmr/bx/n/10 Re- 
+ []
+
+
+Overfull \hbox (21.66656pt too wide) in paragraph at lines 2--2
+ \OT1/cmr/bx/n/10 port 
+ []
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no n in font nullfont!
+! Undefined control sequence.
+l.6 \large
+          \textbf{Project title}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (37.35399pt too wide) in paragraph at lines 6--6
+ []\OT1/cmr/bx/n/10 Project 
+ []
+
+
+Overfull \hbox (11.49994pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 ti- 
+ []
+
+
+Overfull \hbox (12.93744pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 tle 
+ []
+
+
+Overfull \hbox (52.54834pt too wide) in paragraph at lines 8--8
+ []\OT1/cmr/bx/n/10 Submitted 
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/10 to 
+ []
+
+! Undefined control sequence.
+l.10 \large
+           \textbf{University of Mumbai}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (52.14pt too wide) in paragraph at lines 10--10
+ []\OT1/cmr/bx/n/10 University 
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/bx/n/10 of 
+ []
+
+
+Overfull \hbox (30.72206pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/bx/n/10 Mum- 
+ []
+
+
+Overfull \hbox (15.17351pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/bx/n/10 bai 
+ []
+
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+! Undefined control sequence.
+l.14 \large
+           {\textbf{Bachelor of Engineering}}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (43.90254pt too wide) in paragraph at lines 14--14
+ []\OT1/cmr/bx/n/10 Bachelor 
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/bx/n/10 of 
+ []
+
+
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/bx/n/10 En- 
+ []
+
+
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/bx/n/10 gi- 
+ []
+
+
+Overfull \hbox (25.4999pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/bx/n/10 neer- 
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/bx/n/10 ing 
+ []
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+! Undefined control sequence.
+l.17 \large
+           {\textbf{Computer Engineering}}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (50.89558pt too wide) in paragraph at lines 17--17
+ []\OT1/cmr/bx/n/10 Computer 
+ []
+
+
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 En- 
+ []
+
+
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 gi- 
+ []
+
+
+Overfull \hbox (25.4999pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 neer- 
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 ing 
+ []
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no y in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 22.
+! Undefined control sequence.
+l.23 \large
+           {\textbf{Name of Student 1 (Roll No.)} } \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \large 
+                       
+l.24 \large
+           {\textbf{Name of Student 2 (Roll No.)} } \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \large 
+                       
+l.25 \large
+           {\textbf{Name of Student 3 (Roll No.)} } \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \large 
+                       
+l.26 \large
+           {\textbf{Name of Student 4 (Roll No.)} } \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (150.72838pt too wide) in paragraph at lines 22--30
+ [][] 
+ []
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+
+Overfull \hbox (33.91647pt too wide) in paragraph at lines 32--35
+ []\OT1/cmr/bx/n/10 (Name 
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 32--35
+ \OT1/cmr/bx/n/10 of 
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 32--35
+ \OT1/cmr/bx/n/10 Su- 
+ []
+
+
+Overfull \hbox (20.54852pt too wide) in paragraph at lines 32--35
+ \OT1/cmr/bx/n/10 per- 
+ []
+
+
+Overfull \hbox (13.09715pt too wide) in paragraph at lines 32--35
+ \OT1/cmr/bx/n/10 vi- 
+ []
+
+
+Overfull \hbox (19.49434pt too wide) in paragraph at lines 32--35
+ \OT1/cmr/bx/n/10 sor) 
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \begin{figure}
+                   [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.38 \includegraphics
+                     [scale=0.12]{images/aiktc_logo.jpeg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.38 \includegraphics[scale=0.12]{images/aiktc_
+                                               logo.jpeg}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.38 ...aphics[scale=0.12]{images/aiktc_logo.jpeg}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: Command \end{center} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.39 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.39 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: \begin{center} on input line 1 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (40.17664pt too wide) in paragraph at lines 38--41
+ []\OML/cmm/m/it/10 ogo:jpeg$ 
+ []
+
+! Undefined control sequence.
+<recently read> \Large 
+                       
+l.46 }
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (60.6733pt too wide) in paragraph at lines 46--46
+ []\OT1/cmr/bx/n/10 Department 
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 of 
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 Com- 
+ []
+
+
+Overfull \hbox (27.25682pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 puter 
+ []
+
+
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 En- 
+ []
+
+
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 gi- 
+ []
+
+
+Overfull \hbox (25.4999pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 neer- 
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 ing 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 }
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (50.38165pt too wide) in paragraph at lines 46--46
+ []\OT1/cmr/bx/n/10 Anjuman- 
+ []
+
+
+Overfull \hbox (8.1944pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 I- 
+ []
+
+
+Overfull \hbox (34.99559pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 Islam's 
+ []
+
+
+Overfull \hbox (43.36223pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 Kalsekar 
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 Tech- 
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 ni- 
+ []
+
+
+Overfull \hbox (13.89574pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 cal 
+ []
+
+
+Overfull \hbox (27.31233pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 Cam- 
+ []
+
+
+Overfull \hbox (17.31378pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 pus 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 }
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (32.58316pt too wide) in paragraph at lines 46--46
+ []\OT1/cmr/bx/n/10 School 
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 of 
+ []
+
+
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 En- 
+ []
+
+
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 gi- 
+ []
+
+
+Overfull \hbox (25.4999pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 neer- 
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 ing 
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 and 
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 Tech- 
+ []
+
+
+Overfull \hbox (19.16656pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 nol- 
+ []
+
+
+Overfull \hbox (17.56935pt too wide) in paragraph at lines 46--46
+ \OT1/cmr/bx/n/10 ogy 
+ []
+
+! Undefined control sequence.
+<recently read> \large 
+                       
+l.48 ...titute Affiliated to University of Mumbai}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (15.08325pt too wide) in paragraph at lines 48--48
+ []\OT1/cmr/bx/n/10 An 
+ []
+
+
+Overfull \hbox (18.91656pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 Au- 
+ []
+
+
+Overfull \hbox (48.61917pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 tonomous 
+ []
+
+
+Overfull \hbox (14.58325pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 In- 
+ []
+
+
+Overfull \hbox (16.03601pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 sti- 
+ []
+
+
+Overfull \hbox (20.60406pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 tute 
+ []
+
+
+Overfull \hbox (16.04158pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 Af- 
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 fil- 
+ []
+
+
+Overfull \hbox (7.02774pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 i- 
+ []
+
+
+Overfull \hbox (21.72209pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 ated 
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 to 
+ []
+
+
+Overfull \hbox (22.26376pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 Uni- 
+ []
+
+
+Overfull \hbox (19.5902pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 ver- 
+ []
+
+
+Overfull \hbox (17.95267pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 sity 
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 of 
+ []
+
+
+Overfull \hbox (30.72206pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 Mum- 
+ []
+
+
+Overfull \hbox (15.17351pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/bx/n/10 bai 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \linespread{1.0}\normalsize
+                                {Plot No. 2 \& 3, Sector -16, Near Thana Nak...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no P in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no & in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \normalsize
+                 New Panvel, Navi Mumbai. 410206}\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+! Undefined control sequence.
+<recently read> \large 
+                       
+l.53 \textbf{\large October 2026}
+                                 \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (40.6873pt too wide) in paragraph at lines 53--53
+ []\OT1/cmr/bx/n/10 October 
+ []
+
+
+Overfull \hbox (22.99988pt too wide) in paragraph at lines 53--53
+ \OT1/cmr/bx/n/10 2026 
+ []
+
+)
+! Emergency stop.
+<*> ./firstpage.tex
+                   
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 24 strings out of 478582
+ 528 string characters out of 2860759
+ 292951 words of memory out of 3000000
+ 18310 multiletter control sequences out of 15000+600000
+ 469567 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,7n,12p,136b,189s stack positions out of 10000i,1000n,20000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
